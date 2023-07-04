@@ -1,0 +1,5 @@
+C:\Users\A&A\Desktop\git aducation\GeekBrains\Seminar3\Seminar3HW\1\obj\Debug\net6.0\1.csproj.AssemblyReference.cache
+C:\Users\A&A\Desktop\git aducation\GeekBrains\Seminar3\Seminar3HW\1\obj\Debug\net6.0\1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A&A\Desktop\git aducation\GeekBrains\Seminar3\Seminar3HW\1\obj\Debug\net6.0\1.AssemblyInfoInputs.cache
+C:\Users\A&A\Desktop\git aducation\GeekBrains\Seminar3\Seminar3HW\1\obj\Debug\net6.0\1.AssemblyInfo.cs
+C:\Users\A&A\Desktop\git aducation\GeekBrains\Seminar3\Seminar3HW\1\obj\Debug\net6.0\1.csproj.CoreCompileInputs.cache
